@@ -8,5 +8,5 @@ if(nums[i]<min)
 min= nums[i];
 }
 }
-return minElement;
+return min;
 }
